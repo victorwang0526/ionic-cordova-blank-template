@@ -26,6 +26,9 @@ import {BarcodeScanner} from "@ionic-native/barcode-scanner";
     BrowserModule,
     IonicModule.forRoot(MyApp, {
       backButtonText: '返回',
+      iconMode: 'ios',
+      mode: 'ios',
+      pageTransition: 'ios-transition'
     }),
     IonicStorageModule.forRoot()
   ],
