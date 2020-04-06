@@ -1,8 +1,8 @@
 {
   "name": "ionic-cordova-blank-template",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "Victor Wang",
+  "homepage": "http://victorwang.cn/",
   "private": true,
   "scripts": {
     "start": "ionic-app-scripts serve",
